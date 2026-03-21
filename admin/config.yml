@@ -1,0 +1,38 @@
+backend:
+  name: github
+  repo: div652/div652.github.io
+  branch: main # Branch to update
+
+# This line should match your custom site URL or repository structure if needed
+site_url: https://div652.github.io
+
+media_folder: "assets/img"
+public_folder: "/assets/img"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "projects"
+    label: "Projects"
+    folder: "_projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Importance", name: "importance", widget: "number", default: 1}
+      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
