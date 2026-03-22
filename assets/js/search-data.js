@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-full-resume",
+          title: "Full Resume",
+          description: "A comprehensive record of my academic, professional, and personal achievements.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
