@@ -8,6 +8,7 @@ category: machine-learning
 ---
 
 Built an end-to-end AI model to learn 20+ inductively generalisable concepts from few-shot demonstrations.
+
 - Utilized PyBullet simulator for task simulations and training corpus generation (50k+ sample dataset).
 - Optimized the data pipeline through parallelization and optimization techniques, achieving a 12x speedup for improved efficiency and scalability.
 - Implemented an LLM-driven symbolic module with MCTS-based concept induction and program synthesis.

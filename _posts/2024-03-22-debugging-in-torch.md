@@ -19,7 +19,7 @@ Don't trust PyTorch to align your tensors. Force it to crash if the dimensions a
 def forward(self, x):
     B, T, C = x.shape
     assert B == self.expected_batch_size, f"Expected Batch {self.expected_batch_size}, got {B}"
-    
+
     # After a complex attention operation
     out = self.attention(x)
     assert out.shape == (B, T, self.head_size), "Attention output dimension mismatch!"

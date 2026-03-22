@@ -22,13 +22,15 @@ The good news is: You do not need to memorize every operator. Almost every opera
 When you do math between two tensors of different shapes, PyTorch tries to implicitly write the `for` loops for you. It does this using **Broadcasting**.
 
 #### The Algorithm (How PyTorch thinks):
+
 1.  **Right-Alignment:** Align the shapes of the two tensors strictly to the right.
 2.  **Left-Padding:** If one tensor has fewer dimensions, pad its left side with `1`s.
 3.  **The Compatibility Test:** Compare the aligned dimensions. They are compatible ONLY if:
-    *   They are exactly equal.
-    *   One of them is `1` (PyTorch will "stretch" the `1` to match the other).
+    - They are exactly equal.
+    - One of them is `1` (PyTorch will "stretch" the `1` to match the other).
 
 #### Example: Adding a Bias to a Sequence
+
 You have a batch of sequences `(Batch=32, Time=10, Channels=64)` and a bias vector `(Channels=64)`.
 
 ```text
@@ -57,8 +59,9 @@ This is the rule that confuses people the most in Transformers.
 **The Formula:** `(..., M, K) @ (..., K, N) -> (..., M, N)`
 
 #### Example: Self-Attention (Q @ K.transpose)
-*   **Query shape:** `(Batch=32, Heads=8, Time=10, Dim=64)`
-*   **Key shape:** `(Batch=32, Heads=8, Dim=64, Time=10)`
+
+- **Query shape:** `(Batch=32, Heads=8, Time=10, Dim=64)`
+- **Key shape:** `(Batch=32, Heads=8, Dim=64, Time=10)`
 
 PyTorch ignores the `32` and the `8`. It just sees a stack of matrices. It says: "For every batch, and for every head, multiply a `(10 x 64)` matrix by a `(64 x 10)` matrix."
 
@@ -72,8 +75,8 @@ PyTorch ignores the `32` and the `8`. It just sees a stack of matrices. It says:
 
 These operations **do not do math**. Tensors are actually stored in your RAM/GPU as one massive flat 1D array of numbers. The "shape" is just a metadata object that tells PyTorch how to jump through that 1D array.
 
-*   **`transpose(1, 2)`**: Doesn't move data. It just swaps the metadata pointers so PyTorch reads the memory in a different order.
-*   **`view(B, T, C)`**: Tells PyTorch to slice the 1D array into a 3D grid.
+- **`transpose(1, 2)`**: Doesn't move data. It just swaps the metadata pointers so PyTorch reads the memory in a different order.
+- **`view(B, T, C)`**: Tells PyTorch to slice the 1D array into a 3D grid.
 
 **The Danger:** If you use `.view()` to rearrange dimensions when you **should** have used `.transpose()`, PyTorch won't crash. It will just confidently read the memory blocks in the wrong order, mixing up your Batch data with your Time data.
 
@@ -84,6 +87,7 @@ These operations **do not do math**. Tensors are actually stored in your RAM/GPU
 As a CS student, relying on implicit rules (like Broadcasting) is terrifying. If you want to code faster and stop worrying about "Did PyTorch batch this correctly?", you should adopt these two practices.
 
 #### 1. Use `unsqueeze` to be explicit
+
 Don't let PyTorch guess where to put the `1`s during broadcasting. Tell it exactly where they go.
 
 ```python
@@ -96,6 +100,7 @@ x = x + bias.unsqueeze(0).unsqueeze(0) # bias is now (1, 1, C)
 ```
 
 #### 2. The Ultimate Cheat Code: `einops`
+
 `einops` forces you to write the `for` loop logic as a string.
 
 ```python
@@ -115,8 +120,8 @@ scores = einsum(Q, K, 'b h t d, b h d t_key -> b h t t_key')
 
 ### Pro-CS Summary Table
 
-| Category | Typical Logic | Mental Shortcut |
-| :--- | :--- | :--- |
-| **Math** | Right-align & Stretch `1`s. | "Element-wise sync." |
-| **Matrices** | $2D$ math + $ND$ Batch Loop. | "Stack of dot products." |
-| **Reductions** | Delete the `dim` index. | "Squashing a coordinate." |
+| Category       | Typical Logic                | Mental Shortcut           |
+| :------------- | :--------------------------- | :------------------------ |
+| **Math**       | Right-align & Stretch `1`s.  | "Element-wise sync."      |
+| **Matrices**   | $2D$ math + $ND$ Batch Loop. | "Stack of dot products."  |
+| **Reductions** | Delete the `dim` index.      | "Squashing a coordinate." |
