@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ML Engineer & Technical Lead at <a href='https://www.samsung.com/'>Samsung Electronics</a>. Suwon-si, South Korea. Contacts: <a href='mailto:div652@gmail.com'>Email</a>, <a href='mailto:divyanshu.agarwal@alumni.iitd.ac.in'>IITD Email</a>, <a href='https://wa.me/919996707652'>WhatsApp (+91-9996707652)</a>, <a href='tel:+821027934506'>Call/Kakao (+82-10-2793-4506)</a>, <a href='https://www.linkedin.com/in/div652/'>LinkedIn</a>, <a href='https://github.com/div652'>GitHub</a>. Motto: Deeply passionate about pushing the boundaries of research in computer science.
 
 profile:
   align: right
