@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - div652
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - div652/Prophet-Inequalities
+  - div652/CompilerDesign
+  - div652/CNN_FromScratch
+  - div652/CineBase
+  - div652/MazeMania
