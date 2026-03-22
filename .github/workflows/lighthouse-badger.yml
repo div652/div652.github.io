@@ -14,6 +14,7 @@ name: "Lighthouse Badger"
 
 # INPUTS as Secrets (env) for not manually triggered workflows
 env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   URLS: https://alshedivat.github.io/al-folio/
   # If any of the following env is blank, a default value is used instead
   REPO_BRANCH: "${{ github.repository }} master" # target repository & branch e.g. 'dummy/mytargetrepo main'

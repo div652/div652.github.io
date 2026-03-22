@@ -10,6 +10,9 @@ on:
       - master
       - main
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   check:
     # available images: https://github.com/actions/runner-images#available-images

@@ -38,6 +38,9 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   link-checker:
     runs-on: ubuntu-latest
