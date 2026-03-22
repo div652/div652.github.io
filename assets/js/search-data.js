@@ -72,7 +72,2658 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2025-12-06-cppcon-2014-mike-acton-data-oriented-design-and-c/";
+          
+        },
+      },{id: "post-efficientnet",
+        
+          title: "EfficientNet",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/efficientnet/";
+          
+        },
+      },{id: "post-machine-learning-notes",
+        
+          title: "Machine Learning Notes",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/machine-learning-notes/";
+          
+        },
+      },{id: "post-torch",
+        
+          title: "Torch",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/torch/";
+          
+        },
+      },{id: "post-parameters-vs-nn-linear-vs-nn-embedding",
+        
+          title: "Parameters vs. nn.Linear vs. nn.Embedding",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/parameters-vs-nnlinear-vs-nnembedding/";
+          
+        },
+      },{id: "post-debugging-in-torch",
+        
+          title: "Debugging in Torch",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/debugging-in-torch/";
+          
+        },
+      },{id: "post-batching-in-torch",
+        
+          title: "Batching in Torch",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/batching-in-torch/";
+          
+        },
+      },{id: "post-c-stuff",
+        
+          title: "C++ Stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/c-stuff/";
+          
+        },
+      },{id: "post-information-island",
+        
+          title: "Information Island",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/information-island/";
+          
+        },
+      },{id: "post-testing-code",
+        
+          title: "Testing Code",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/testing-code/";
+          
+        },
+      },{id: "post-imc-task",
+        
+          title: "IMC Task",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/imc-task/";
+          
+        },
+      },{id: "post-when-to-send-to-device",
+        
+          title: "When to Send to device  ?",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/when-to-send-to-device/";
+          
+        },
+      },{id: "post-tracking-training-progress",
+        
+          title: "Tracking training progress",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tracking-training-progress/";
+          
+        },
+      },{id: "post-small-gpus-and-gradient-accumulation",
+        
+          title: "Small GPUs and Gradient Accumulation",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/small-gpus-and-gradient-accumulation/";
+          
+        },
+      },{id: "post-shuffling-and-when-to-skip",
+        
+          title: "Shuffling and When to Skip",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/shuffling-and-when-to-skip/";
+          
+        },
+      },{id: "post-datasets-and-dataloaders",
+        
+          title: "Datasets and Dataloaders",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/datasets-and-dataloaders/";
+          
+        },
+      },{id: "post-use-cases",
+        
+          title: "Use cases",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/use-cases/";
+          
+        },
+      },{id: "post-sarvam-ai",
+        
+          title: "Sarvam AI",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sarvam-ai/";
+          
+        },
+      },{id: "post-tokenising-in-llms",
+        
+          title: "Tokenising in LLMs",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tokenising-in-llms/";
+          
+        },
+      },{id: "post-personal-stuff",
+        
+          title: "Personal Stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/personal-stuff/";
+          
+        },
+      },{id: "post-leetcode-hards-daily",
+        
+          title: "LeetCode Hards Daily",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/leetcode-hards-daily/";
+          
+        },
+      },{id: "post-scratchpad",
+        
+          title: "Scratchpad",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/scratchpad/";
+          
+        },
+      },{id: "post-tasks",
+        
+          title: "Tasks",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tasks/";
+          
+        },
+      },{id: "post-india-tax-payable-11-march-2026",
+        
+          title: "India Tax Payable (11 March, 2026)",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/india-tax-payable-11-march-2026/";
+          
+        },
+      },{id: "post-rubrik-questions",
+        
+          title: "Rubrik Questions",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/rubrik-questions/";
+          
+        },
+      },{id: "post-databricks-questions",
+        
+          title: "Databricks Questions",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/databricks-questions/";
+          
+        },
+      },{id: "post-role-information",
+        
+          title: "Role Information",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/role-information/";
+          
+        },
+      },{id: "post-claude-code-overrides",
+        
+          title: "Claude code overrides",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/claude-code-overrides/";
+          
+        },
+      },{id: "post-game-vibe-coding",
+        
+          title: "Game Vibe coding",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/game-vibe-coding/";
+          
+        },
+      },{id: "post-mcp-project",
+        
+          title: "MCP Project",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mcp-project/";
+          
+        },
+      },{id: "post-rag-and-mcp",
+        
+          title: "RAG and MCP",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/rag-and-mcp/";
+          
+        },
+      },{id: "post-cs230-agents-prompts-rag",
+        
+          title: "CS230 : Agents, Prompts, RAG",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cs230-agents-prompts-rag/";
+          
+        },
+      },{id: "post-cs230-agentic-ai-design",
+        
+          title: "CS230 : Agentic AI -- Design",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cs230-agentic-ai-design/";
+          
+        },
+      },{id: "post-all-about-rooflines",
+        
+          title: "All About Rooflines",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/all-about-rooflines/";
+          
+        },
+      },{id: "post-volatile",
+        
+          title: "volatile",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/volatile/";
+          
+        },
+      },{id: "post-scaling-your-model-jax",
+        
+          title: "Scaling Your Model : JAX",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/scaling-your-model-jax/";
+          
+        },
+      },{id: "post-optimisation-atoms",
+        
+          title: "Optimisation Atoms",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/optimisation-atoms/";
+          
+        },
+      },{id: "post-false-sharing-of-cache-lines",
+        
+          title: "false sharing of cache lines",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/false-sharing-of-cache-lines/";
+          
+        },
+      },{id: "post-cs230-ai-project-strategy",
+        
+          title: "CS230 : AI Project Strategy",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cs230-ai-project-strategy/";
+          
+        },
+      },{id: "post-ai-smart-home-ideas",
+        
+          title: "AI Smart Home Ideas",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ai-smart-home-ideas/";
+          
+        },
+      },{id: "post-bindu-abacus-ai",
+        
+          title: "Bindu Abacus.ai",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/bindu-abacusai/";
+          
+        },
+      },{id: "post-random-notes",
+        
+          title: "Random Notes",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/random-notes/";
+          
+        },
+      },{id: "post-random",
+        
+          title: "Random",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/random/";
+          
+        },
+      },{id: "post-prep-for-interview",
+        
+          title: "Prep for Interview",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/prep-for-interview/";
+          
+        },
+      },{id: "post-thoughts",
+        
+          title: "Thoughts",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/thoughts/";
+          
+        },
+      },{id: "post-lunchbox-review",
+        
+          title: "LunchBox review",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lunchbox-review/";
+          
+        },
+      },{id: "post-agneepath",
+        
+          title: "agneepath",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/agneepath/";
+          
+        },
+      },{id: "post-jax",
+        
+          title: "JAX",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/jax/";
+          
+        },
+      },{id: "post-bucket-list",
+        
+          title: "Bucket List",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/bucket-list/";
+          
+        },
+      },{id: "post-agreements",
+        
+          title: "Agreements",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/agreements/";
+          
+        },
+      },{id: "post-financial-info",
+        
+          title: "Financial Info",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/financial-info/";
+          
+        },
+      },{id: "post-watchlisst",
+        
+          title: "watchlisst",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/watchlisst/";
+          
+        },
+      },{id: "post-ibkr-info",
+        
+          title: "IBKR INFO",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ibkr-info/";
+          
+        },
+      },{id: "post-phillipines",
+        
+          title: "Phillipines",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/phillipines/";
+          
+        },
+      },{id: "post-fast-food",
+        
+          title: "fast food",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fast-food/";
+          
+        },
+      },{id: "post-state-of-affairs",
+        
+          title: "State of Affairs",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/state-of-affairs/";
+          
+        },
+      },{id: "post-travel",
+        
+          title: "Travel",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/travel/";
+          
+        },
+      },{id: "post-festival",
+        
+          title: "festival",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/festival/";
+          
+        },
+      },{id: "post-first-night",
+        
+          title: "first night",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/first-night/";
+          
+        },
+      },{id: "post-unique-stuff",
+        
+          title: "unique stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/unique-stuff/";
+          
+        },
+      },{id: "post-stay-recos",
+        
+          title: "Stay recos",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/stay-recos/";
+          
+        },
+      },{id: "post-protein",
+        
+          title: "protein",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/protein/";
+          
+        },
+      },{id: "post-logistics",
+        
+          title: "logistics",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/logistics/";
+          
+        },
+      },{id: "post-itinerary",
+        
+          title: "itinerary",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/itinerary/";
+          
+        },
+      },{id: "post-fruits",
+        
+          title: "fruits",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fruits/";
+          
+        },
+      },{id: "post-food",
+        
+          title: "food",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/food/";
+          
+        },
+      },{id: "post-metamorphosis",
+        
+          title: "Metamorphosis",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/metamorphosis/";
+          
+        },
+      },{id: "post-insanity",
+        
+          title: "insanity",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/insanity/";
+          
+        },
+      },{id: "post-confusion",
+        
+          title: "confusion",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/confusion/";
+          
+        },
+      },{id: "post-qwen",
+        
+          title: "Qwen",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/qwen/";
+          
+        },
+      },{id: "post-grok",
+        
+          title: "Grok",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/grok/";
+          
+        },
+      },{id: "post-gemini",
+        
+          title: "Gemini",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gemini/";
+          
+        },
+      },{id: "post-deepseek",
+        
+          title: "DeepSeek",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/deepseek/";
+          
+        },
+      },{id: "post-claude",
+        
+          title: "Claude",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/claude/";
+          
+        },
+      },{id: "post-chatgpt",
+        
+          title: "ChatGPT",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/chatgpt/";
+          
+        },
+      },{id: "post-taiwan",
+        
+          title: "Taiwan",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/taiwan/";
+          
+        },
+      },{id: "post-food",
+        
+          title: "Food",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/food/";
+          
+        },
+      },{id: "post-restaurants",
+        
+          title: "Restaurants",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/restaurants/";
+          
+        },
+      },{id: "post-phrases",
+        
+          title: "Phrases",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/phrases/";
+          
+        },
+      },{id: "post-yolo",
+        
+          title: "YOLO",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/yolo/";
+          
+        },
+      },{id: "post-object-detection-tasks",
+        
+          title: "Object Detection tasks",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/object-detection-tasks/";
+          
+        },
+      },{id: "post-gradcam",
+        
+          title: "GradCAM",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gradcam/";
+          
+        },
+      },{id: "post-feature-pyramid-network",
+        
+          title: "Feature Pyramid Network",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/feature-pyramid-network/";
+          
+        },
+      },{id: "post-efficientdet",
+        
+          title: "EfficientDet",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/efficientdet/";
+          
+        },
+      },{id: "post-phrases",
+        
+          title: "Phrases",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/phrases/";
+          
+        },
+      },{id: "post-knowledge-stuff",
+        
+          title: "Knowledge Stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/knowledge-stuff/";
+          
+        },
+      },{id: "post-selective-search",
+        
+          title: "Selective Search",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/selective-search/";
+          
+        },
+      },{id: "post-rcnn-region-proposal-cnn",
+        
+          title: "RCNN : Region Proposal CNN",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rcnn-region-proposal-cnn/";
+          
+        },
+      },{id: "post-faster-rcnn",
+        
+          title: "Faster RCNN",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/faster-rcnn/";
+          
+        },
+      },{id: "post-fast-rcnn",
+        
+          title: "Fast RCNN",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fast-rcnn/";
+          
+        },
+      },{id: "post-deep-ml",
+        
+          title: "Deep ML",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/deep-ml/";
+          
+        },
+      },{id: "post-the-vegetarian-han-kang",
+        
+          title: "The Vegetarian -- Han Kang",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-vegetarian-han-kang/";
+          
+        },
+      },{id: "post-quotes-i-like",
+        
+          title: "Quotes I like",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/quotes-i-like/";
+          
+        },
+      },{id: "post-words",
+        
+          title: "Words",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/words/";
+          
+        },
+      },{id: "post-korean-info-dump",
+        
+          title: "Korean Info Dump",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/korean-info-dump/";
+          
+        },
+      },{id: "post-unix-install",
+        
+          title: "unix : install",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/unix-install/";
+          
+        },
+      },{id: "post-os",
+        
+          title: "OS",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/os/";
+          
+        },
+      },{id: "post-basic-laws-of-success",
+        
+          title: "Basic Laws of Success",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/basic-laws-of-success/";
+          
+        },
+      },{id: "post-tradeoffs",
+        
+          title: "Tradeoffs",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tradeoffs/";
+          
+        },
+      },{id: "post-standard-convolutional-layers",
+        
+          title: "Standard Convolutional Layers",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/standard-convolutional-layers/";
+          
+        },
+      },{id: "post-mobilenet-v1-architecture",
+        
+          title: "MobileNet v1 Architecture",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mobilenet-v1-architecture/";
+          
+        },
+      },{id: "post-make-it-even-faster",
+        
+          title: "Make it even faster !",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/make-it-even-faster/";
+          
+        },
+      },{id: "post-good-features",
+        
+          title: "Good Features",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/good-features/";
+          
+        },
+      },{id: "post-depthwise-separable-conv",
+        
+          title: "Depthwise Separable CONV",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/depthwise-separable-conv/";
+          
+        },
+      },{id: "post-mobilenets",
+        
+          title: "MobileNets",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mobilenets/";
+          
+        },
+      },{id: "post-batch-normalization",
+        
+          title: "Batch Normalization",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/batch-normalization/";
+          
+        },
+      },{id: "post-things-to-pack",
+        
+          title: "Things to pack",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/things-to-pack/";
+          
+        },
+      },{id: "post-day-24",
+        
+          title: "Day 24",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-24/";
+          
+        },
+      },{id: "post-xrfw",
+        
+          title: "XRFW",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/xrfw/";
+          
+        },
+      },{id: "post-subtitle-based",
+        
+          title: "Subtitle Based",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/subtitle-based/";
+          
+        },
+      },{id: "post-what-to-do-in-life",
+        
+          title: "What to do in Life",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-to-do-in-life/";
+          
+        },
+      },{id: "post-srijani",
+        
+          title: "Srijani",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/srijani/";
+          
+        },
+      },{id: "post-self-hatred-amp-stoicism",
+        
+          title: "Self Hatred &amp; STOICISM",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/self-hatred-stoicism/";
+          
+        },
+      },{id: "post-more-philosophy",
+        
+          title: "More Philosophy",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/more-philosophy/";
+          
+        },
+      },{id: "post-impress-tips",
+        
+          title: "Impress tips",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/impress-tips/";
+          
+        },
+      },{id: "post-goonjan",
+        
+          title: "Goonjan",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/goonjan/";
+          
+        },
+      },{id: "post-unix-find",
+        
+          title: "unix : find",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/unix-find/";
+          
+        },
+      },{id: "post-sym-link-shortcuts-in-linux",
+        
+          title: "Sym Link  : Shortcuts in Linux",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sym-link-shortcuts-in-linux/";
+          
+        },
+      },{id: "post-stuff-to-read",
+        
+          title: "Stuff to Read",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stuff-to-read/";
+          
+        },
+      },{id: "post-scheduling-algorithms",
+        
+          title: "Scheduling Algorithms",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/scheduling-algorithms/";
+          
+        },
+      },{id: "post-locks-and-mutexes",
+        
+          title: "Locks and Mutexes",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/locks-and-mutexes/";
+          
+        },
+      },{id: "post-linux-dirs-explained",
+        
+          title: "Linux Dirs Explained",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/linux-dirs-explained/";
+          
+        },
+      },{id: "post-type-punning",
+        
+          title: "Type Punning",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/type-punning/";
+          
+        },
+      },{id: "post-static",
+        
+          title: "static",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/static/";
+          
+        },
+      },{id: "post-smart-pointers",
+        
+          title: "Smart Pointers",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/smart-pointers/";
+          
+        },
+      },{id: "post-references-in-c",
+        
+          title: "References in C++",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/references-in-c/";
+          
+        },
+      },{id: "post-multiple-inheritance",
+        
+          title: "Multiple Inheritance",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/multiple-inheritance/";
+          
+        },
+      },{id: "post-lvalues-rvalues",
+        
+          title: "lvalues rvalues",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/lvalues-rvalues/";
+          
+        },
+      },{id: "post-lambdas-and-std-function",
+        
+          title: "Lambdas and std::function",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/lambdas-and-stdfunction/";
+          
+        },
+      },{id: "post-inline",
+        
+          title: "inline",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/inline/";
+          
+        },
+      },{id: "post-inheritance",
+        
+          title: "Inheritance",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/inheritance/";
+          
+        },
+      },{id: "post-copy-constructor-assignment",
+        
+          title: "copy : Constructor/Assignment",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/copy-constructorassignment/";
+          
+        },
+      },{id: "post-constexpr",
+        
+          title: "constexpr",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/constexpr/";
+          
+        },
+      },{id: "post-casting",
+        
+          title: "Casting",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/casting/";
+          
+        },
+      },{id: "post-c-linker",
+        
+          title: "C++ Linker",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c-linker/";
+          
+        },
+      },{id: "post-c-compiler",
+        
+          title: "C++ Compiler",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c-compiler/";
+          
+        },
+      },{id: "post-std-thread",
+        
+          title: "std::thread",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stdthread/";
+          
+        },
+      },{id: "post-definitions",
+        
+          title: "Definitions",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/definitions/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/untitled/";
+          
+        },
+      },{id: "post-the-packing-list",
+        
+          title: "THE packing list",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-packing-list/";
+          
+        },
+      },{id: "post-taylor-english",
+        
+          title: "Taylor English",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/taylor-english/";
+          
+        },
+      },{id: "post-random-info",
+        
+          title: "Random Info",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/random-info/";
+          
+        },
+      },{id: "post-quotes-man-39-s-search-for-meaning",
+        
+          title: "Quotes : Man&#39;s Search For Meaning",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/quotes-mans-search-for-meaning/";
+          
+        },
+      },{id: "post-philosophy-dump",
+        
+          title: "Philosophy Dump",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/philosophy-dump/";
+          
+        },
+      },{id: "post-philosophy-2",
+        
+          title: "Philosophy 2",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/philosophy-2/";
+          
+        },
+      },{id: "post-music-facts",
+        
+          title: "Music Facts",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/music-facts/";
+          
+        },
+      },{id: "post-movies-books-series-recommendations",
+        
+          title: "Movies/Books/Series Recommendations",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/moviesbooksseries-recommendations/";
+          
+        },
+      },{id: "post-literature-info-dump",
+        
+          title: "Literature Info Dump",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/literature-info-dump/";
+          
+        },
+      },{id: "post-crime-and-punishment",
+        
+          title: "Crime and Punishment",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/crime-and-punishment/";
+          
+        },
+      },{id: "post-book-movie-reviews",
+        
+          title: "Book/Movie Reviews",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bookmovie-reviews/";
+          
+        },
+      },{id: "post-manual-import-11-12-2024",
+        
+          title: "Manual import 11/12/2024",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/manual-import-11122024/";
+          
+        },
+      },{id: "post-general-example-channel",
+        
+          title: "General [example channel]",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/general-example-channel/";
+          
+        },
+      },{id: "post-cp-learn-stuff",
+        
+          title: "CP Learn Stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cp-learn-stuff/";
+          
+        },
+      },{id: "post-contributions",
+        
+          title: "Contributions",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/contributions/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/untitled/";
+          
+        },
+      },{id: "post-writing-good-c-14",
+        
+          title: "Writing good c++14",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/writing-good-c14/";
+          
+        },
+      },{id: "post-value-categories-by-ben-saks",
+        
+          title: "Value Categories by Ben Saks",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/value-categories-by-ben-saks/";
+          
+        },
+      },{id: "post-high-performance-systems-in-c",
+        
+          title: "High Performance systems in C++",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/high-performance-systems-in-c/";
+          
+        },
+      },{id: "post-c-hardware-interaction",
+        
+          title: "C++ : Hardware Interaction",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c-hardware-interaction/";
+          
+        },
+      },{id: "post-tvcamera-iot-service",
+        
+          title: "tvcamera-iot-service",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tvcamera-iot-service/";
+          
+        },
+      },{id: "post-role",
+        
+          title: "Role",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/role/";
+          
+        },
+      },{id: "post-resume-details-needed",
+        
+          title: "Resume details needed",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/resume-details-needed/";
+          
+        },
+      },{id: "post-templates",
+        
+          title: "Templates",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/templates/";
+          
+        },
+      },{id: "post-oops-stuff",
+        
+          title: "OOPs Stuff",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/oops-stuff/";
+          
+        },
+      },{id: "post-multithreaded-c-11-and-boost",
+        
+          title: "MultiThreaded C++11 and Boost",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/multithreaded-c11-and-boost/";
+          
+        },
+      },{id: "post-memory",
+        
+          title: "Memory",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/memory/";
+          
+        },
+      },{id: "post-learning-resources",
+        
+          title: "Learning Resources",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/learning-resources/";
+          
+        },
+      },{id: "post-globals",
+        
+          title: "Globals",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/globals/";
+          
+        },
+      },{id: "post-cpp-con",
+        
+          title: "Cpp Con",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cpp-con/";
+          
+        },
+      },{id: "post-cool-tricks",
+        
+          title: "Cool Tricks",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cool-tricks/";
+          
+        },
+      },{id: "post-c-compilers",
+        
+          title: "C++ Compilers",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c-compilers/";
+          
+        },
+      },{id: "post-boost-libraries",
+        
+          title: "Boost libraries",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/boost-libraries/";
+          
+        },
+      },{id: "post-audio-transfer-model",
+        
+          title: "Audio transfer model",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/audio-transfer-model/";
+          
+        },
+      },{id: "post-move",
+        
+          title: "move( )",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/move/";
+          
+        },
+      },{id: "post-sed-info",
+        
+          title: "SED info",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sed-info/";
+          
+        },
+      },{id: "post-audio-model",
+        
+          title: "Audio Model",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/audio-model/";
+          
+        },
+      },{id: "post-1-page-ml-project-list",
+        
+          title: "1 page ML project list",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/1-page-ml-project-list/";
+          
+        },
+      },{id: "post-model-transfer",
+        
+          title: "Model Transfer",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/model-transfer/";
+          
+        },
+      },{id: "post-cp-pending-questions",
+        
+          title: "CP Pending Questions",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cp-pending-questions/";
+          
+        },
+      },{id: "post-china-biz-visa",
+        
+          title: "china biz visa",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/china-biz-visa/";
+          
+        },
+      },{id: "post-correction-request",
+        
+          title: "Correction Request",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/correction-request/";
+          
+        },
+      },{id: "post-ahh-this-never-ending-tragedy",
+        
+          title: "Ahh this never ending tragedy",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ahh-this-never-ending-tragedy/";
+          
+        },
+      },{id: "post-switchcase-vs-ifelse",
+        
+          title: "SwitchCase vs IfElse",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/switchcase-vs-ifelse/";
+          
+        },
+      },{id: "post-day38",
+        
+          title: "Day38",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day38/";
+          
+        },
+      },{id: "post-day36",
+        
+          title: "Day36",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day36/";
+          
+        },
+      },{id: "post-day35",
+        
+          title: "Day35",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day35/";
+          
+        },
+      },{id: "post-day34",
+        
+          title: "Day34",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day34/";
+          
+        },
+      },{id: "post-day32",
+        
+          title: "Day32",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day32/";
+          
+        },
+      },{id: "post-day-31",
+        
+          title: "Day 31",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-31/";
+          
+        },
+      },{id: "post-day37",
+        
+          title: "Day37",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day37/";
+          
+        },
+      },{id: "post-day33",
+        
+          title: "Day33",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day33/";
+          
+        },
+      },{id: "post-day-26",
+        
+          title: "Day 26",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-26/";
+          
+        },
+      },{id: "post-day23",
+        
+          title: "Day23",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day23/";
+          
+        },
+      },{id: "post-day21",
+        
+          title: "Day21",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day21/";
+          
+        },
+      },{id: "post-day-25",
+        
+          title: "Day 25",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-25/";
+          
+        },
+      },{id: "post-day-24",
+        
+          title: "Day 24",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-24/";
+          
+        },
+      },{id: "post-day-22",
+        
+          title: "Day 22",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-22/";
+          
+        },
+      },{id: "post-parachutes",
+        
+          title: "Parachutes",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/parachutes/";
+          
+        },
+      },{id: "post-hopes-day-20",
+        
+          title: "Hopes : Day 20",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hopes-day-20/";
+          
+        },
+      },{id: "post-day-19",
+        
+          title: "Day 19",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-19/";
+          
+        },
+      },{id: "post-day-18",
+        
+          title: "Day 18",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-18/";
+          
+        },
+      },{id: "post-day-17",
+        
+          title: "Day 17",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-17/";
+          
+        },
+      },{id: "post-day-16",
+        
+          title: "Day 16",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-16/";
+          
+        },
+      },{id: "post-day-15",
+        
+          title: "Day 15",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-15/";
+          
+        },
+      },{id: "post-day-1",
+        
+          title: "Day 1",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-1/";
+          
+        },
+      },{id: "post-dayq4",
+        
+          title: "Dayq4",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dayq4/";
+          
+        },
+      },{id: "post-day13",
+        
+          title: "Day13",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day13/";
+          
+        },
+      },{id: "post-day-14",
+        
+          title: "day 14",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-14/";
+          
+        },
+      },{id: "post-day-12",
+        
+          title: "Day 12",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-12/";
+          
+        },
+      },{id: "post-the-point-of-no-return",
+        
+          title: "The Point of No Return",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/the-point-of-no-return/";
+          
+        },
+      },{id: "post-day-11",
+        
+          title: "Day 11",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-11/";
+          
+        },
+      },{id: "post-day-9",
+        
+          title: "Day 9",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-9/";
+          
+        },
+      },{id: "post-day-10",
+        
+          title: "Day 10",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-10/";
+          
+        },
+      },{id: "post-day-8",
+        
+          title: "Day 8",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-8/";
+          
+        },
+      },{id: "post-day-7",
+        
+          title: "Day 7",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-7/";
+          
+        },
+      },{id: "post-day-6",
+        
+          title: "Day 6",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-6/";
+          
+        },
+      },{id: "post-day-5",
+        
+          title: "Day 5",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-5/";
+          
+        },
+      },{id: "post-day-4",
+        
+          title: "Day 4",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-4/";
+          
+        },
+      },{id: "post-day-3",
+        
+          title: "Day 3",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-3/";
+          
+        },
+      },{id: "post-day-2",
+        
+          title: "Day 2",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/day-2/";
+          
+        },
+      },{id: "post-tragedy-crime-punishment",
+        
+          title: "Tragedy. Crime. Punishment.",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tragedy-crime-punishment/";
+          
+        },
+      },{id: "post-death",
+        
+          title: "Death",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/death/";
+          
+        },
+      },{id: "post-breaking-up",
+        
+          title: "Breaking Up",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/breaking-up/";
+          
+        },
+      },{id: "post-thread-pool",
+        
+          title: "thread pool",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/thread-pool/";
+          
+        },
+      },{id: "post-grief",
+        
+          title: "Grief",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/grief/";
+          
+        },
+      },{id: "post-std-vector",
+        
+          title: "std::vector",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stdvector/";
+          
+        },
+      },{id: "post-return-value-optimisation",
+        
+          title: "return value optimisation",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/return-value-optimisation/";
+          
+        },
+      },{id: "post-move-semantics",
+        
+          title: "move semantics",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/move-semantics/";
+          
+        },
+      },{id: "post-instruct-fine-tuning-rlhf",
+        
+          title: "Instruct Fine Tuning, RLHF",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/instruct-fine-tuning-rlhf/";
+          
+        },
+      },{id: "post-introduction-to-transformers-w-andrej-karpathy",
+        
+          title: "Introduction to Transformers w/ Andrej Karpathy",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/introduction-to-transformers-w-andrej-karpathy/";
+          
+        },
+      },{id: "post-build-gpt-from-scratch-andrej-karapthy",
+        
+          title: "Build GPT from scratch : Andrej Karapthy",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/build-gpt-from-scratch-andrej-karapthy/";
+          
+        },
+      },{id: "post-git-commands",
+        
+          title: "git commands",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/git-commands/";
+          
+        },
+      },{id: "post-india-pack",
+        
+          title: "india pack",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/india-pack/";
+          
+        },
+      },{id: "post-tasks-gathered-8-may",
+        
+          title: "Tasks Gathered : 8 May",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tasks-gathered-8-may/";
+          
+        },
+      },{id: "post-function-pointers",
+        
+          title: "Function Pointers",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/function-pointers/";
+          
+        },
+      },{id: "post-fold-expressions-c-17",
+        
+          title: "fold expressions : c++17",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fold-expressions-c17/";
+          
+        },
+      },{id: "post-resize",
+        
+          title: "resize",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/resize/";
+          
+        },
+      },{id: "post-truncate-commands",
+        
+          title: "truncate commands",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/truncate-commands/";
+          
+        },
+      },{id: "post-piping-commands-in-unix",
+        
+          title: "piping commands in unix",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/piping-commands-in-unix/";
+          
+        },
+      },{id: "post-unix-grep",
+        
+          title: "unix : grep",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/unix-grep/";
+          
+        },
+      },{id: "post-unix-chmod",
+        
+          title: "unix : chmod",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/unix-chmod/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,6 +2732,160 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-llm-briefly",
+        
+          title: "LLM briefly",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/llm-briefly/";
+          
+        },
+      },{id: "post-knowledge-distillation",
+        
+          title: "Knowledge Distillation",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/knowledge-distillation/";
+          
+        },
+      },{id: "post-attention-mechanism",
+        
+          title: "Attention Mechanism",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/attention-mechanism/";
+          
+        },
+      },{id: "post-diary",
+        
+          title: "diary",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/diary/";
+          
+        },
+      },{id: "post-21-jan",
+        
+          title: "21 Jan",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/21-jan/";
+          
+        },
+      },{id: "post-std-function",
+        
+          title: "std::function",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stdfunction/";
+          
+        },
+      },{id: "post-vtable",
+        
+          title: "vtable",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/vtable/";
+          
+        },
+      },{id: "post-college-time-google-doc-notes",
+        
+          title: "College time google doc notes",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/college-time-google-doc-notes/";
+          
+        },
+      },{id: "post-things-to-study",
+        
+          title: "Things to study",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/things-to-study/";
+          
+        },
+      },{id: "post-cmake",
+        
+          title: "CMAKE",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/cmake/";
+          
+        },
+      },{id: "post-cmake",
+        
+          title: "CMake",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/cmake/";
+          
+        },
+      },{id: "post-static-and-dynamic-linking",
+        
+          title: "Static and Dynamic Linking",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/static-and-dynamic-linking/";
+          
+        },
+      },{id: "post-what-is-the-scope-of-t",
+        
+          title: "What is the scope of T",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/what-is-the-scope-of-t/";
+          
+        },
+      },{id: "post-poetry",
+        
+          title: "Poetry",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/poetry/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -92,6 +2897,292 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-stl-library",
+        
+          title: "STL Library",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/stl-library/";
+          
+        },
+      },{id: "post-revamp-employee-onboarding",
+        
+          title: "Revamp employee onboarding",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/revamp-employee-onboarding/";
+          
+        },
+      },{id: "post-what-is-slite",
+        
+          title: "What is Slite?",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/what-is-slite/";
+          
+        },
+      },{id: "post-team-values",
+        
+          title: "Team Values",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/team-values/";
+          
+        },
+      },{id: "post-employee-onboarding",
+        
+          title: "Employee onboarding",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/employee-onboarding/";
+          
+        },
+      },{id: "post-company-offsite",
+        
+          title: "Company offsite",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/company-offsite/";
+          
+        },
+      },{id: "post-team-weekly-02-23-2024",
+        
+          title: "Team weekly 02/23/2024",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/team-weekly-02232024/";
+          
+        },
+      },{id: "post-team-standup-12-24-2023",
+        
+          title: "Team standup 12/24/2023",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/team-standup-12242023/";
+          
+        },
+      },{id: "post-get-started-with-meetings",
+        
+          title: "Get started with meetings",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/get-started-with-meetings/";
+          
+        },
+      },{id: "post-music-reccomendations",
+        
+          title: "Music Reccomendations.",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/music-reccomendations/";
+          
+        },
+      },{id: "post-getting-started",
+        
+          title: "Getting started",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/getting-started/";
+          
+        },
+      },{id: "post-team-wiki",
+        
+          title: "Team wiki",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/team-wiki/";
+          
+        },
+      },{id: "post-meetings",
+        
+          title: "Meetings",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/meetings/";
+          
+        },
+      },{id: "post-docs",
+        
+          title: "Docs",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/docs/";
+          
+        },
+      },{id: "post-onboarding-ressources",
+        
+          title: "Onboarding ressources",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/onboarding-ressources/";
+          
+        },
+      },{id: "post-getting-started-with-slite-basics",
+        
+          title: "Getting started with Slite basics",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/getting-started-with-slite-basics/";
+          
+        },
+      },{id: "post-example-product-spec",
+        
+          title: "Example: Product spec",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/example-product-spec/";
+          
+        },
+      },{id: "post-example-engineering-bootstrap",
+        
+          title: "Example: Engineering bootstrap",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/example-engineering-bootstrap/";
+          
+        },
+      },{id: "post-workshops",
+        
+          title: "Workshops",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/workshops/";
+          
+        },
+      },{id: "post-travel",
+        
+          title: "Travel",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/travel/";
+          
+        },
+      },{id: "post-meals",
+        
+          title: "Meals",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/meals/";
+          
+        },
+      },{id: "post-activities",
+        
+          title: "Activities",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/activities/";
+          
+        },
+      },{id: "post-tamasha",
+        
+          title: "Tamasha",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/tamasha/";
+          
+        },
+      },{id: "post-queen",
+        
+          title: "Queen",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/queen/";
+          
+        },
+      },{id: "post-kite-runner",
+        
+          title: "Kite Runner",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/kite-runner/";
+          
+        },
+      },{id: "post-animal-farm",
+        
+          title: "Animal Farm",
+        
+        description: "This project documentation is hosted on Slite. View the embedded page below for full details regardi...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/animal-farm/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
